@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * subtract - subtract two integers
+ * sub - subtract two integers
  * @a :the first value
  * @b:the second integer
  * Return:subtraction
