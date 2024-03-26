@@ -2,13 +2,13 @@
 #include <stdio.h>
 
 /**
- * add - add two integers
+ * mod - mod of two integers
  * @a :the first value
  * @b:the second integer
- * Return:addition
+ * Return:final answer
  */
 
-int add(int a, int b)
+int mod(int a, int b)
 {
-	return (a + b);
+	return (a % b);
 }
